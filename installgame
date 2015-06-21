@@ -1,0 +1,4 @@
+#!/bin/bash
+# install acemod game data
+echo "installing gamedata"
+cp acemod/game.so ../../yquake2/acemod/

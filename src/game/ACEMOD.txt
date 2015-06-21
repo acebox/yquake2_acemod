@@ -1,0 +1,23 @@
+"AceMod" for Quake 2 - 2015 edition!
+
+Description:
+	This is a rough "port" of an old mod I made for Doom (Skulltag) to Quake 2 as its "spiritual successor".  There will be quite some differences, but overall this will try and be close to the original "Randomizer" idea (but with a better engine to play with).  This file is a WIP/log of this mod (also to help kill time meanwhile :P).  Quick and dirty, but very fun in the end.  Hopefully cross-platform.  Client being used is Yamagi-Quake2, testing platform is Ubuntu 14.04.  99.9% changes will be in game logic, anything else will be purely eye-candy (hopefully compatible with other clients).  Mainly single-player focused (with co-op), Deathmatch/CTF/Multiplayer (should) work also lol.  Also, this should be "backwards-compatable" with existing maps requiring *ZERO* changes (but allowing "new" maps to be made utilzing tweaks, if ever, just incase).
+	
+Ideas:
+
+Weapons:
+	- Added all weapons from the 3 mission packs (Rogue, Xatrix, Zaero):
+		Shove/Push, Chainfist, ETF Rifle, Prox Launcher (added in Hand-Tossed Prox Mines),
+		Tesla, Trap, Phalanx, Plasma Beam, Ion Ripper, Sniper Rifle, Sonic Cannon, 
+		and Disintegrator.
+	- Added custom Railgun wall-piercing code, should be more network friendly (hopefully)
+	- (TEST) Added Chaingun spinup/spindown.
+
+Enemies:
+	- added basic "infighting" (use g_infighting to toggle)
+	- added Rogue AI (still working ambush bug out, seems light related)
+	- added Rogue jumping to other monsters as well (and some of their mission pack mirrors)
+
+AceMod Monster Randomizer V3R:
+	- This gets its own section pretty much, lol.
+	- 
